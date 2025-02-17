@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e599d0ec7d589674a9a4cd14141a0144
+  - enabled: 1
+    path: Assets/Scenes/CarSelection.unity
+    guid: 59f9d76f6b3336648a4d2689adbff1bb
+  - enabled: 1
+    path: Assets/Scenes/RaceSelection.unity
+    guid: 65f57d3abb5985a4caa392a0e74570f8
+  - enabled: 1
+    path: Assets/Scenes/FirstRace.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SecondRace.unity
+    guid: 772e0811df2c78049962e80ab267b6ab
+  - enabled: 1
+    path: Assets/Scenes/PostRace.unity
+    guid: e106990eb3f1c0641b41cf4f2f66d54d
   m_configObjects: {}

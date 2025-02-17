@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 1c313f98c86473a408214053d8ea1cd5
+  productGUID: 5e7186eaec106874a9b31e06759d75b0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: car-game-guided
+  productName: car-game-test
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -678,14 +678,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: car-game-guided
+  metroPackageName: car-game-test
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: car-game-guided
+  metroApplicationDescription: car-game-test
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -755,10 +755,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 79954d06-fd36-4836-aabc-f6b1201b8abf
+  cloudProjectId: fa7e90d1-d63f-4b80-a3a6-7b5a8cc58dfe
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: car-game-guided
+  projectName: car-game-test
   organizationId: alvarojuradogp
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
